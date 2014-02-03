@@ -63,6 +63,16 @@ Hamburg:
   - name: Fabian
     email: fabian@opentechschool.org
     img: fabian.jpg
+London:
+  - name: Danielle
+    email: danielle@opentechschool.org
+    img: danielle.png
+  - name: Gen
+    email: gen@opentechschool.org
+    img: gen.jpg
+  - name: Vikki
+    email: vikki@opentechschool.org
+    img: vikki.jpg
 Melbourne:
   - name: Steven Farlie
     email: steven@opentechschool.org
